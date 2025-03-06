@@ -1,4 +1,13 @@
-bu bir örnek dosyadır.
+Ofis Programları
+
+Bir ofiste yapılması gereken işlerin tamamını pc ortamında yapmamız için tasarlanmış paket programlardır
+
+	Metin Editör pr	   Sunum Pr.	Tablolama pr
+MS Office   Word	   PowerPoint   Excel
+Off 365
+Libre Of.   Writer        Impress       Calc
+Google      Dökümanlar	   Slaytlar      Tablolar
+WPS	    Docs            Slides	Sheets
 
 
-
+merhaba ben suphi
