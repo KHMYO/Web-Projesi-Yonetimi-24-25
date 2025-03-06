@@ -1,1 +1,3 @@
 dal1 için ilk dosya
+
+şuanda bu dosya değiştirildi
